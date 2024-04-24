@@ -1,0 +1,32 @@
+#container{
+    width: 50%;
+    margin: auto;
+ 
+   
+  padding-top: 30px;
+
+}
+
+
+#container > div{ 
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+ 
+  margin: 15px;
+
+
+}
+#checkbox{
+
+margin-left: 90%;
+
+}
+
+
+#btn-box{
+    display: flex;
+    justify-content:center;
+    
+}
+
+
+
